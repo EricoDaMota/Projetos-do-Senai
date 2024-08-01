@@ -9,6 +9,6 @@ programa {
    leia(n3)
    escreva("Digite a quarta nota: ")
    leia(n4)
-   escreva("\n A média entre as notas é igual a: ",((n1 + n2 + n3 + n4) / 4))
+   escreva("\n A mÃ©dia entre as notas Ã© igual a: ",((n1 + n2 + n3 + n4) / 4))
   }
 }
