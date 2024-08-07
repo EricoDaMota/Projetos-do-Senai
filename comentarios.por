@@ -1,12 +1,12 @@
 programa {
   funcao inicio() {
-    // coment·rio de uma linha
+    // coment√°rio de uma linha
     /*
-    Curso: LÛgica coputacional 
+    Curso: L√≥gica coputacional 
     Prof Eduardo
     Data:
     Erico da Mota
-    DescriÁ„o:
+    Descri√ß√£o:
     */
   }
 }
