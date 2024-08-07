@@ -5,12 +5,12 @@ programa {
     leia(idade)
   
       se (idade >= 16 e idade < 18 ou idade >= 65){
-      escreva("O seu voto não é obrigatório")
+      escreva("O seu voto nÃ£o Ã© obrigatÃ³rio")
     }
     
     senao
     se (idade >= 18){
-      escreva("O seu voto é obrigatório")
+      escreva("O seu voto Ã© obrigatÃ³rio")
     }
     
     senao 
