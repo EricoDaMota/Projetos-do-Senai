@@ -1,9 +1,9 @@
 programa {
   funcao inicio() {
     real dividendo, divisor, resultado, divisao
-    escreva("Digite o dividendo da operação: ")
+    escreva("Digite o dividendo da operaÃ§Ã£o: ")
     leia(dividendo)
-    escreva("Digite o divisor da operação: ")
+    escreva("Digite o divisor da operaÃ§Ã£o: ")
     leia(divisor)
   divisao = dividendo / divisor
   escreva(divisao)
