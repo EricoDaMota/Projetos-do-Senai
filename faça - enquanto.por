@@ -2,11 +2,11 @@ programa {
   funcao inicio() {
     inteiro opcao
     faca{
-      escreva("## MENU DE OPÇÕES ##\n\n")
-      escreva("1. Opção 1\n")
-      escreva("2. Opção 2\n")
+      escreva("## MENU DE OPÃ‡Ã•ES ##\n\n")
+      escreva("1. OpÃ§Ã£o 1\n")
+      escreva("2. OpÃ§Ã£o 2\n")
       escreva("3. Sair\n")
-      escreva("Digite uma opção: ")
+      escreva("Digite uma opÃ§Ã£o: ")
       leia(opcao)
 
     } enquanto(opcao != 4)
